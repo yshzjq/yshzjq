@@ -31,8 +31,8 @@
 ## 🌍 이메일 및 링크 🌍
 
 - 📧 yshdev.zjq@gmail.com
-- 🐦 [notion 공부(지속적으로 업데이트중)](https://twitter.com/yourusername](https://www.notion.so/b84ab5e5c03e40aca06672339ea732af?pvs=4))
-- 🌐 [포트폴리오](포트폴리오(10.24).pdf](https://github.com/user-attachments/files/17642683/10.24.pdf))
+- 🐦 [notion 공부(지속적으로 업데이트중)]([https://twitter.com/yourusername](https://www.notion.so/b84ab5e5c03e40aca06672339ea732af?pvs=4))
+- 🌐 [포트폴리오]([포트폴리오(10.24).pdf](https://github.com/user-attachments/files/17642683/10.24.pdf))
 
 ## 🧠 2024년 목표
 
