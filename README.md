@@ -33,7 +33,7 @@
 - 🐦 [notion 공부(지속적으로 업데이트중)]([https://twitter.com/yourusername](https://www.notion.so/b84ab5e5c03e40aca06672339ea732af?pvs=4))
 - 🌐 [포트폴리오]([포트폴리오(10.24).pdf](https://github.com/user-attachments/files/17642683/10.24.pdf))
 - 📖 [블로그](https://yourblog.com)
-- 📧 [이메일](mailto:youremail@example.com)
+- 📧 yshdev.zjq@gmail.com
 
 ## 🛠️ 나의 개발 철학
 
