@@ -15,9 +15,22 @@
 - **도구:** Git, Visual StudioHTML
 
 
-## 🌍 온라인에서 저를 찾으세요 🌍
+## 🌍 이메일 및 링크 취업하는 것입니다.
+- 🌱 계속해서 새로운 기술을 배우고, 제 능력을 향상시키기 위해 노력하고 있습니다.
+- 💻 현재 주로 XR, C++ 에 집중하고 있습니다.
+- 🤔 문제 해결을 좋아하며 알고리즘 문제를 자주 풉니다.
 
-- 🐦 [Twitter](https://twitter.com/yourusername)
+## 💡 내가 사용할 수 있는 기술들
+
+- **프로그래밍 언어:** C,C++,C#
+- **프론트엔드:** HTML, CSS, JavaScript
+- **엔진:** Unity, Unreal
+- **도구:** Git, Visual StudioHTML
+
+
+## 🌍 이메일 및 링크 🌍
+
+- 🐦 [notion 공부(지속적으로 업데이트중)]([https://twitter.com/yourusername](https://www.notion.so/b84ab5e5c03e40aca06672339ea732af?pvs=4))
 - 🌐 [포트폴리오](https://yourportfolio.com)
 - 📖 [블로그](https://yourblog.com)
 - 📧 [이메일](mailto:youremail@example.com)
